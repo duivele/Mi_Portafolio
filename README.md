@@ -13,8 +13,9 @@ Este proyecto es una entrega de examen donde se requiere la inclusión de captur
 Este portafolio fue creado como parte del examen. A pesar de su diseño simple, cumple con lo pedido por el profesor:
 
 - **Página de Inicio**: Me presento, me llamo Luis Mansilla estudiante de CFT Los Lagos y actualmente curso la carrera de Informatica.
-- **Contacto**: Formulario de contacto para recibir mensajes.
+- **Contacto**: https://github.com/duivele.
+https://www.linkedin.com/in/luis-mansilla-villarroel-690b5033b/
 
 Para visualizar el portafolio, abre el archivo `index.html` en tu navegador o ejecuta el siguiente comando en la terminal para iniciar un servidor local:
 
-```bash
+
