@@ -4,16 +4,9 @@ Este proyecto es una entrega de examen donde se requiere la inclusión de captur
 
 ## Contenido
 
-1. ![Capturas de Pantalla](examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\screenshots\image(1).png)
-2. [Portafolio](#portafolio)
-3. [Datos del Estudiante](#datos-del-estudiante)
-
-## Capturas de Pantalla
-
-Aquí se incluyen las capturas de pantalla de mis notas. Las imágenes se encuentran en la carpeta `screenshots`.
-
-![Nota 1](screenshots/nota1.png)
-![Nota 2](screenshots/nota2.png)
+1. ![Capturas de Pantalla](examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\screenshots/image(1).png)
+ ![Capturas de Pantalla](examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\screenshots/image(2).png) ![Capturas de Pantalla](examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\screenshots/image(3).png) ![Capturas de Pantalla](examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\screenshots/image.png)
+2. [Portafolio](portfolio-details.html)
 
 ## Portafolio
 
@@ -25,5 +18,3 @@ Este portafolio fue creado como parte del examen. A pesar de su diseño simple, 
 Para visualizar el portafolio, abre el archivo `index.html` en tu navegador o ejecuta el siguiente comando en la terminal para iniciar un servidor local:
 
 ```bash
-# Si tienes Python instalado
-python -m http.server
