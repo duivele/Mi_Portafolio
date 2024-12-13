@@ -4,9 +4,11 @@ Este proyecto es una entrega de examen donde se requiere la inclusión de captur
 
 ## Contenido
 
-1. ![Capturas de Pantalla](examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\screenshots/image(1).png)
- ![Capturas de Pantalla](examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\screenshots/image(2).png) ![Capturas de Pantalla](examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\screenshots/image(3).png) ![Capturas de Pantalla](examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS\screenshots/image.png)
-2. [Portafolio](portfolio-details.html)
+1. ![Capturas de Pantalla](https://github.com/duivele/examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS/blob/main/screenshots/image%20(1).png)
+2. ![Capturas de Pantalla](https://github.com/duivele/examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS/blob/main/screenshots/image%20(2).png) 
+3. ![Capturas de Pantalla](https://github.com/duivele/examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS/blob/main/screenshots/image%20(3).png) 
+4. ![Capturas de Pantalla](https://github.com/duivele/examenFinal_ConceptosTecnicos_NombreAlumno_CFT_LOS_LAGOS/blob/main/screenshots/image.png)
+5. ![Portafolio](portfolio-details.html)
 
 ## Portafolio
 
