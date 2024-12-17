@@ -11,6 +11,11 @@ Este proyecto es una entrega de examen donde se requiere la inclusión de captur
 5. ![Portafolio](portfolio-details.html)
 
 ## Portafolio
+1. ![Capturas de Pantalla](screenshots/Captura.PNG)
+2. ![Capturas de Pantalla](screenshots/3adada.PNG)
+3. ![Capturas de Pantalla](screenshots/Captura2.PNG)
+4. ![Capturas de Pantalla](screenshots/Captura3.PNG)
+5. ![Capturas de Pantalla](screenshots/Captura4.PNG)
 
 Este portafolio fue creado como parte del examen. A pesar de su diseño simple, cumple con lo pedido por el profesor:
 
